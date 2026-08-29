@@ -1,0 +1,4 @@
+Random State,Model,Accuracy,Precision,Recall,F1,ROC-AUC
+42,Multi-layer Perceptron,0.9232,0.9231,0.9232,0.9231,0.994
+10,Support Vector Machine,0.9269,0.9269,0.9269,0.9268,0.9947
+2026,Support Vector Machine,0.9284,0.9281,0.9284,0.928,0.9934
