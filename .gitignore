@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -19,3 +20,31 @@ Thumbs.db
 # Large/generated files
 *.pkl
 *.joblib
+=======
+__pycache__/
+*.pyc
+
+src/final_confusion_matrix.py
+src/final_evaluation.py
+src/final_results.py
+src/final_results_plot.py
+src/final_results_table.py
+src/final_results_visualization.py
+src/final_summary.py
+src/model_comparison.py
+src/model_comparison_visualization.py
+src/results_table.py
+src/summary.py
+
+figures/confusion_matrix_seed_10.png
+figures/confusion_matrix_seed_2026.png
+figures/confusion_matrix_seed_42.png
+figures/model_f1_comparison.png
+figures/random_forest_confusion_matrix.png
+figures/final_model_performance.png
+
+results/metrics/final_model_comparison.csv
+results/metrics/final_results_table.csv
+results/metrics/final_summary.csv
+results/metrics/seed_comparison_summary.csv
+>>>>>>> 7d4cce3d2a0e0c1865758c2c9f2b4d29cb2fd850
